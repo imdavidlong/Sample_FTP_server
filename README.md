@@ -22,4 +22,4 @@ Bascally use the sockets in C, it has the function of
   For FTP:
   type: ftp localhost 1024
   
-  <image src="34.jpeg" width="500" hight="450">
+  <image src="4.jpeg" width="500" hight="450">
